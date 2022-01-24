@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.testserenity1</groupId>
 	<artifactId>SerenityBDDFramework</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT Test Change</version>
 
 
 	<properties>
